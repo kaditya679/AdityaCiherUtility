@@ -1,0 +1,3 @@
+include ':AdityaCipherUtilityLibrary'
+include ':app'
+rootProject.name = "AdityaCipherUtilityProject"
